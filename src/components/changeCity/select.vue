@@ -56,5 +56,5 @@ export default {
 </script>
 
 <style lang="scss">
-    @import '@/assets/css/changeCity/select.scss';
+    @import '@/assets/css/changecity/select.scss';
 </style>
